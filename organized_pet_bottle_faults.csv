@@ -1,0 +1,388 @@
+contents,description,cause,solution
+BLOWN FINISH,"Expansion of the finish, located at or above the pilfer band, which may be seen
+and felt on the inside surface. At its worst, air leaks may be heard during high
+blow. Also called a “burst neck”.
+Overheating of the finish area allows main blow pressure air to stretch the
+material. Dimensionally larger or misshapen, causing capping problems. Can
+be detected visually or by measurements.","1. Oven ambient temperature too high.
+2. Standby % too high.
+3. Preform is affected by the 2""? and/or 3 lamp heat.
+4. Orientated lamps are pointing straight down.
+5. Preform internal diameter incorrect, preform sitting high.
+6. Incorrect loading height, too much of the finish is exposed to the infrared
+lamps.
+7. Preform storage, not conditioned for sufficient time after production.
+8. Poor strain image in neck.
+9. Short shot, primarily in vent slots.
+10. No black paint on the cooling shields.
+11. Aged preforms.","1. Increase oven ventilation or direct air on to the neck of the preform. 2. Find out WHEN the problem is occurring — is it after idle time — if so, the spindles may be overheating — decrease the standby %. 3. Reduce neck element heat by turning off lamps or decreasing their percentage. 4. Place a quartz bar in front of the zone 1 lamps in ovens 1 and 2 to more carefully direct rays on to the preform. 5. Check the loading safety (to ensure it is detecting mis-loaded preforms). 6. Check the loading operation to ensure the preforms are loaded correctly. 7. Check the shield temperature (chiller water). This should be as low as possible without creating condensation. 8. Check position of lamps, especially Zones 1,2 and 3. 9. Introduce CB2 cooling shields. 10. Introduce a flat reflector between Zones 1 and 2. 11. Check preform quality. 12. Adjust orientated lamp angle (the lamp should be angled at approximately 45°). 13. Check preform age. 14. Check preform conditioning after production."
+SEALING SURFACE AND NECK SUPPORT RING DAMAGE,"As the transfer arm releases the preform into the closed mould, force is applied
+unevenly to the preform’s finish. In the cooler weather, the blow nozzle will
+straighten the preform, at higher oven ambient temperatures the neck finish will
+stretch rather than straighten as the blow nozzle lowers into position.","1. Poor transfer arm positioning causing misalignment of the preform, blow
+mould and blow nozzle.
+2. Blow mould and nozzle alignment.
+3. Dirt/plastic embedded in preform mould.
+4. Short shots.
+5. Mechanical damage between preform production and in-feed at blow
+moulder.
+6. Sharp edges or no clearance on blow mould neck inserts.","1. Re-align transfer arm — height and timing.
+2. Re-align blow mould or nozzle if necessary.
+3. Clean preform mould, if always in same position on prefrom cavity.
+4. Check hopper, elevator, belt conveyor and unscrambler for possible
+sources of preform damage.
+5. Check dimensions of insert in the blow mould to ensure there is
+clearance for the neck support ring.
+6. Check for sharp edge on insert in the blow mould which may shave
+material of the neck support ring."
+NECK CONSTRICTION,"A fold of material in the neck or upper shoulder. May range from being small
+enough to be felt with the fingernail, to leaving a hole through the fold, that is the
+same diameter as the stretch rod.
+Over-stretching of the preform by the stretch rod prior to blow. As the preform is
+stretched by the rod, it’s diameter quickly reduces until it eventually touches the
+stretch rod, cooling rapidly, trapping material in the form of a ring.","1. Low pre-blow, delayed or missing.
+2. Flow restrictor closed too much.
+3. Damaged three-way valve.
+4. Adjust heat profile.
+5. Bent stretch rod.","1. If problem is occurring on all stations, move the pre-blow cam earlier or
+increase the pre-blow pressure.
+2. Increase pre-blow flow, especially if only one station is affected, by using
+the flow restrictor.
+3. If problem is occurring on one station, then check the operation of the
+three-way valve. Switch the valve between stations to confirm problem if
+unsure.
+4. Decrease temperature at the neck or increase heat in the body and/or
+base.
+5. Check straightness of stretch rod and change if necessary."
+PERPENDICULARITY,"The distortion may occur at or above the neck support ring or at the shoulder and
+neck.","1. Mis-alignment of the preform to the mould or nozzle.
+2. Sharp edges or no clearance on blow mould neck inserts.
+3. Distortion below the neck support ring.
+a) Insufficient mould cooling.
+b) One mould half with poor cooling.
+c) Excessive material remaining in the neck and shoulder — therefore the
+d)
+bottle is still hot in the shoulder when packed resulting in a bent neck.
+Bottles left in the sun — heat effected.","1. Re-align transfer arm (height and timing). 2. Re-align blow mould or nozzle if necessary. 3. Check dimensions in the blow mould to insure there is clearance for the neck support ring. 4. Check for sharp edges on neck inserts in the blow moulds. 5. Adjust the profiling percentages. 6. Reduce material thickness in the shoulder by reducing heat in the body. 7. Increase main blow time by bringing blow cam sooner — this increases the heat exchange time. 8. Improve mould cooling — moulds need to be 10-12°C to freeze the plastic. Check the mould temperature by touch, it should be cold. 9. Exhaust cam moved later to extend the blowing/cooling time. 10. Change the shield design or paint black on side."
+HARD SHOULDER,"An excess of material remains in the neck and shoulder which may be bent. In
+effect too much of the body has stretched before the neck. What material is left
+remains in the neck. Appearance of the shoulder may indicate inconsistent
+patchy stretching, more often seen in 2 litre bottles.","1. Incorrect heat profile.
+2. Incorrect blowing settings.
+3. Lazy stretch rod cylinder (only one station affected).
+4. Faulty non-return valve, allowing high-pressure air to pass into next
+station at pre-blow stage.
+5. Air leak into preform before the start of pre-blow, cooling the upper part
+of the preform. In this case pearlescence may be evident on one side of
+the bottle (unlikely).
+6. Preform location incorrect through oven. The shields are too high
+relative to the neck support ring.","1. Reduce heat in the body and/or base before pearlescence occurs, then increase neck temperature in an effort to stretch material away from the neck. 2. Alternatively increase neck heat. 3. Advance lamps in zone 2 if all lamps are on (and at 100%) to get more heat into the neck. 4. Move oven banks closer to the preform to improve penetration. 5. Move the pre-blow cam later. 6. Reduce pre-blow pressure. 7. Check stretch rod cylinder by watching to see if the roller follows the stretching cam. 8. Replace non-return valve at preceding station. 9. Check cooling shield settings. 10. Check for air leak through nozzle and if necessary change the seal. 11. Check height of preform through oven to ensure there is not a preform loading problem."
+THIN SHOULDER,"Shoulder wall thickness too thin, high base weight. This is due to excessive
+stretching of the preform taper.
+Stations producing a smaller pre-blow container will be first with the fault or the
+thinnest.","1. Blowing parameters require adjustment.
+2. Heat profiling incorrect.
+3. Poor shield positioning, allowing excessive stretching of the thin part of
+the taper.
+4. Individual flow control valves faulty or flow restrictor not open enough
+turns.","1. Increase pre-blow pressure.
+2. Move pre-blow cam earlier.
+3. Reduce heat in the neck by re-profiling or increase heat in the body
+and/or base of the preform.
+4. Open pre-blow restrictor if problem associated with one station."
+OPALESCENCE (TOO WARM,"Hazy-white in colour, usually found on the outside surface of the bottle. Dull in
+appearance, in almost every case surrounding the bottle. Flow marks may
+indicate hot bottles.","1. Preform set point too high.
+2. Too much heat applied adjacent to the haze.
+3. Insufficient ventilation in oven creating excess surface temperature.
+A. Preform wall thickness excessive.
+5. Blower not capable of processing newer generation preform’s.","1. Reduce set point temperature.
+2. Reduce heat adjacent to the haze.
+3. Increase the air ventilation and, if necessary, clean blowers.
+4. Use the minimum temperature (Set point) possible to blow a good bottle —
+this maximises strength.
+5. Lamp percentages may be too low — leads to burnt outside and cold
+inside on the preform. Decrease the number of lamps switched on and
+increase the percentage of lamps that remain on.
+NOTE: 4 and 5 are good practice for any bottle process."
+EXCESSIVE FILL POINT DROP,"When carbonated, the bottle appears partially empty. Diameter and/or height
+increases excessively.
+As the carbonated bottle is exposed to higher temperatures, the pressure
+increases inside the bottle. Insufficient orientation was formed during the
+blowing process i.e. the bottle was orientated too hot. Low levels of orientation
+results in the material not having enough strength to resist the pressure applied.","1. The overall temperature of the preform is too high.
+2. The preforms are too old (they have absorbed too much moisture).","1. Reduce overall preform temperature allowing the bottle to be blown
+closer to its natural stretch limit. Under this condition slight pearlescence
+may be evident.
+2. Check the age of the preforms and, if over 12 months, try a more recent
+production batch."
+PEARLESCENCE (TOO COLD),"Blue in colour appearing fragmented and patchy at the edges. Usually located
+on the inside surface and may be rubbed off with a fingernail. Usually located in
+the lower label panel or base petals on large containers and in the body of small
+containers.
+The resultant bottle has poor clarity.","Pearlescence results from stretching of molecules faster than they can respond
+past their natural stretch limit. This is usually when the material is stretched too
+cold or overstretched. Small tears appear on the material’s surface.
+Overstretching (when the preform to bottle ratio is too high) can be checked by
+testing the thickness of the bottle.","1. Increase overall preform temperature — set point.
+2. Material too thin — increase heat other than where pearlescence is
+evident.
+3. Where the pearlescence area may be allowed to stretch further increase
+heat at pearlescence.
+4. If pearlescence is opposite an off-centre sprue then refer to Off-Centre
+Base.
+5. Pearlescence on the bottle shoulder may be the result of a blow air leak
+through nozzle.
+6. Reduce pre-blow volume, increase pre-blow time and reduce pre-blow
+pressure.
+7. Ensure pre-blow bottle is not too large, excessive petal formation in pre-
+blow will cause pearlescence in the petal area (base).
+8. Pearlescence in the body in the form of a ring is the result of insufficient
+pre-blow."
+FLAT SIDES,"Flat sides are usually found at the vertical part lines of the blow moulds. They
+may also be found anywhere air can be trapped during the blowing process but
+are more likely on the parting lines of the blow mould or on the feet.","1. Feet not blown due to a low main blow.
+2. Feet not blown due to blocked vents.
+3. Flat on parting line due to incorrectly set compensation.
+4. Flat on parting line due to no compensation on machine (older generation
+equipment).","1. Check compensation pressure on moulds.
+2. Clear vents on feet.
+3. Check compensation setting on moulds.
+4. Check main blow pressure."
+PROMINENT MOULD SEAM,"Material bulging outwards along the blow mould seam lines, worse where thick
+material is located.","1. Excessive mould wear.
+2. Residual pressure remaining in the bottle when blow moulds open,
+insufficient exhaust time.
+3. Insufficient main blow cooling time.
+4. Material too hot and/or too thick.","1. Repair blow moulds.
+2. Inadequate exhaust time, check exhaust valve activation — move cam to
+exhaust sooner.
+3. Increase main blow-time.
+4. Reduce material thickness through processing.
+5. Reduce preform temperature."
+CHOKED BODYV,"Similar in appearance to a choked neck but found in the body, which may start as
+a thick band, choking down to the diameter of the stretch rod.","1. Insufficient, or no, pre-blow.
+2. Insufficient heat beside choke.
+3. Pre-blow cam is positioned too late.","1. Increase heat in the body or base.
+2. Increase pre-blow pressure. Open flow restrictor if the problem is on
+one station.
+3. If problem is occurring on all stations, move the pre-blow cam earlier or
+increase the pre-blow pressure.
+4. If problem is occurring on one station, check the operation of the
+three-way valve. Switch the valve between stations to confirm problem if
+unsure."
+HEAVY BASE WEIGHT,"Base weight above required weight, poor base clearance may be evident. Thin
+shoulder or body may cause poor topload.","1. Pre-blow pressure too low.
+2. Pre-blow cam too late.
+3. Poor heating profile resulting in poor distribution of material.
+4. If only one station is affected then flow restrictor may be closed
+too many turns.","1. Increase pre-blow pressure.
+2. Move pre-blow cam earlier.
+3. Adjust heating profile.
+4. If only one station is affected then open flow restrictor to increase flow of
+pre-blow air."
+LIGHT BASE WEIGHT,Base under desired weight.,"1. Pre-blow pressure too high.
+2. Pre-blow cam too soon.
+3. Poor heating profile resulting in poor distribution of material, insufficient
+stretching of the body or shoulder.
+4. If only one station then flow restrictor may be open too many turns.
+5. Faulty non-return valve, allowing the high-pressure air to pass into next
+station at pre-blow stage.","1. Reduce pre-blow pressure.
+2. Move pre-blow cam later.
+3. Reduce heat near the base of the preform until pearlescence occurs, then
+increase heat to the shoulder and/or body. Repeat until base
+weight is correct.
+4. If only one station is affected then close flow restrictor to decrease flow of
+pre-blow air.
+5. Advance lamps in zone 2 if all lamps are on (and at 100%) to get more
+heat into the neck.
+6. Move oven banks closer to the preform to improve penetration.
+7. Replace non-return valve at preceding station."
+FEET NOT FULLY FORMED,"The outer corners of one or more feet have not reached the mould
+surface. Appearing firstly as large radii then flats, which may travel up the outer
+edges of the petals. Pearlescence may be evident as well as an off-centre
+sprue.","1. Insufficient main blow pressure rate or main blow too slow, material
+movement stalls before reaching the corners. Can be as a result of a blow
+nozzle leak.
+2. Heavy base weight. Main blow pressure inadequate to move material
+into the corners.
+3. Excessive pre blow pressure or time. If too much of the petal is formed
+before main blow starts insufficient hot material will be left to form the feet
+correctly. Corners are likely to be thin. Pre-blow too large. Reduce or blow
+later.
+4. Feet will not form on the corners opposite an off centre sprue.
+5. Insufficient compressed air supply.","1. Check the main blow pressure and increase if possible. If station related,
+check for main blow leaks from nozzle or stretch rod.
+2. Increase main blow time.
+3. Reduce base weight by reducing preform temperature until
+pearlescence is evident, then increase preforms lower body
+temperature.
+A. Check pre blow bottle size, reduce if necessary.
+5. Fix off-centre base (See Off-Centre Base).
+6. Move main blow pressure cam sooner.
+7. Check there is sufficient compressed air supply.
+8. Check status of compressed air supply."
+HOT SIDES (TOO WARM) on,"Inconsistent haze around the bottle, at its worst almost surrounding the
+bottle. Often a vertical line wider at the bottom than at the top may be
+evident. Evidence of overheating is present; severe dimples and pearlescence
+may be evident below the haze and will be worse on off-centre base.","1. Inconsistent preform rotation through the oven.
+2. Insufficient surface cooling of the preform.
+3. Oven shields touching the preform.
+4. Air diffuser on blow nozzle may be damaged.","1. Check the preform for a drag mark. Ensure oven shields are not
+touching the preform. Check collet, spindle or mandrel rotation.
+2. Check oven ventilation and increase airflow if necessary.
+3. Check oven shield set up.
+4. Check air diffuser for damage."
+LOW TOP LOAD,"Failing at angle changes, where the neck meets the shoulder and at the top and
+the bottom of the label panel.","1. Preform set point too high.
+2. Incorrect heating profile.
+3. Incorrect pre-blow settings.","1. Reduce overall preform temperature by reducing the set point.
+2. Change the heating profile around the failure point.
+3. Increase pre-blow pressure or move pre-blow cam earlier."
+LOW BURST PRESSURE (BODY),"The bottle breaks through the body often tearing the bottle apart. Often showing
+excessive pressure distortion of the base.","1. Pearlescence — from an overstretched and therefore weak bottle.
+2. Opalescence (haze) — due to excessive heat.
+3. Too much weight in the base.
+4. Contamination.
+5. Short chain resin in the preforms (low i.v.)
+6. Old preforms (that have absorbed moisture).
+7. Partial incision in the bottle wall when pack has been opened at filler,
+usually with a Stanley knife.","1. Reduce preform temperature.
+2. Reduce body heat.
+3. Examine preforms — if no cause is evident and you wish to confirm
+preforms as the cause — change batches. Return to the original batch if
+the problem is not rectified.
+4. Review method of opening the package i.e. use a hook knife."
+LOW BURST PRESSURE (BASE),"Break starts around the gate. Almost no distortion of the bottle before break
+occurs. May have excessive crystalinity at the gate.","1. Base of bottle blown too cold, producing excessive stress.
+2. Crater in the base.
+3. Excessive crystalinity at the gate.
+4. Low IV.
+5. Excessive stress in preform.
+6. Long gate.
+7. Excessive material in the base.
+8. Stretch rod clearance too short.
+9. Thin preform base.
+10. Design of bottle base is poor i.e. sharp edges between feet or at punt.","1. Increase heat around the gate.
+2. Remove crater (see relevant section).
+3. Re-set stretch rod clearance.
+4. Examine preforms under polarised light.
+5. Check preform base thickness, especially if problem is specific to a
+preform cavity or cavities.
+6. Study the base and redesign if appropriate."
+POOR BASE CLEARANCE (DOMING),"Thick sections of the base continue to move after exiting the blow mould due to
+excessive heat remaining in these sections. Height of the gate becomes too
+close to the bearing surface. Usually associated with heavy base weight.
+Sometime after carbonation the centre of the base becomes the lowest point of
+the bottle. Often referred to as “rockers”.","1. Too much heat in shoulder and neck.
+2. Too much material in base — base doesn’t cool down and the bottle
+shrinks back towards preform shape after exiting mould.
+3. Uneven distribution of material — not enough material in the feet — too
+much at the injection point (gate).
+4. Insufficient mould cooling.
+5. Aged preforms.
+6. Excessive inherent preform stress.
+7. Water channels to the base are blocked. (Spacer incorrectly positioned).","1. Base weight is too heavy, reduce preform heat in the shoulder or neck.
+2. Reduce the set point.
+3. Base weight correct or light; reduce heat beside and/or below the gate.
+4. Reduce temperature of chilled water.
+5. Increase blow time (to provide more bottle to mould contact and therefore
+increase cooling).
+6. Move exhaust cam as late as possible.
+7. Check base mould for excessive heat, correct spacer if applicable or
+check water ways for blockages."
+FOLD IN BASE AT END CAP LINE,"Located in the unorientated material in the centre of the base. Appearance may
+be that of small wrinkles in an arch or a crater around the injection point
+(gate). The usual cause is an excess of material left in the base after blowing.
+The fault often results in explosions at the fold during filling.","1. Preform temperature too hot around the base.
+2. An excess of material in the vicinity of the fold.
+3. Low pre-blow pressure or the timing is too late.
+4. Pre-blow airflow is restricted too much, individual station problem.
+5. Aged or stressed preforms.","1. Reduce heat in the base. Adjust profile further if required.
+2. Increase pre-blow pressure or move pre-blow cam earlier.
+3. If the problem is station related, open the appropriate flow restrictor.
+4. Check preform age and quality."
+CRATER,"Starting as a ring or rings radiating from where the stretch rod locates at the
+base. Eventually, as the heat is increased, a fold of material the diameter of the
+stretch rod occurs close to the base insert.
+Explosions occur at the fold/crater when pressurised.","1. Over heating of the preform base, material then wraps around the end of
+the stretch rod.
+2. Pre-blow pressure too low or pre-blow cam too late.
+3. If individual station, pre-blow flow may be too restricted.
+4. Stretch rod may be too small.","1. Reduce heat at or below the base.
+2. Increase pre-blow pressure and/or move pre-blow earlier.
+3. If individual station, open flow restrictor.
+4. Use larger stretch rod."
+CRACKED BASE,"At its smallest, a crack on the inside surface partway through the wall above the
+gate usually accompanied by good clearance. At its worst, several cracks
+radiating from the gate. As they widen, they form what looks like a teardrop.
+May exhibit excessive crystallinity at, or near the gate.","1. Preform end cap too cold.
+2. Clearance between the stretch rod and mould base too small.
+3. Thick crystalinity above the gate.","1. Increase heat in the top two zones.
+2. Increase stretch rod/mould base gap.
+3. Check preform for excessive crystallinity. If found, change preforms."
+OFF CENTRE BASE,"Gate location off centre to the mould base. As the gate moves further away
+from the centre, pearlescence and dimples then appear.
+There is uneven wall thickness around the bottle circumference with the thinnest
+wall thickness opposite the gate. The web in this area will be thin, resulting in
+early movement, then stress cracking.","If the gate is not centred to the stretch rod impact mark, it suggests an
+alignment problem.
+1. Misalignment of the preform to the mould, nozzle or stretch rod.
+2. Inadequate mould cooling, one half-only.
+3. Incorrect transfer of preform from the oven to the blow mould.
+If the gate is centred to the stretch rod impact mark and not yet centred to
+the mould base at the end of blow, the stretch rod has lost control during
+blow.
+1. Pre-blow too early.
+2. Pre-blow pressure too high.
+3. Lower half of preform too hot.
+4. Stretch rod incorrectly set.
+5. Worn stretch rod guides.
+6. Bent preforms.
+7. If individual station, adjust the flow restrictor.
+8. Pre-blow cam too low, going straight to main blow.
+9. Stretch rod diameter too small, not able to control preform.","1. If the first impacted mark is evident and is not centred to the gate, an alignment problem is usually the cause. Check for misalignment. Ensure transfer arm locates preform in mould correctly. 2. 1. Realign the preform to the mould, nozzle or stretch rod. 3. 2. Correct the blow mould cooling. 4. 3. Reset transfer arm. 5. 4. Change to a larger diameter stretch rod. 6. If the first impact mark is centred, the stretch rod has lost control of the gate during blow. Often gate control is lost due to excessive growth in length during pre-blow. Ideally, growth should start high in the preform, reaching full diameter before full length. If length is achieved before diameter, the rod must travel faster than normal to keep up. 7. 1. Reduce pre-blow pressure. 8. 2. Move pre-blow cam later. 9. 3. Close the flow restrictor x turns. 10. 4. Raise pre-blow cam in small increments until problem is solved."
+STRESS CRACKING,"Small cracks radiating from the gate, in the thick unorientated material in the
+centre of the base or in the partially unorientated material of the straps evident
+after carbonation. Severe stress cracking on every foot and strap centred
+indicates a chemical reaction.
+The bottle may explode after a period of time or at high temperatures once
+carbonated.","1. Off-centre base, where the thickest material will stress crack first.
+2. Excessive post mould change (See Doming). As clearance deteriorates,
+web shape changes, increasing the risk of stress cracking.
+5. Heavy base contains a lot of unorientated material which has a low
+resistance to stress cracking.
+6. Chemical reaction by some line lubricants.
+7. Low IV material.
+8. Base design fault leading to areas of high stress concentration.","1. Fix off-centre base (see relevant section).
+2. Reduce preform temperature to reduce base weight if necessary.
+3. Change line lubricants.
+4. Review base design."
+EXPLOSIONS,"With the exception of contamination, almost all explosions occur in the base of
+the bottle, through the gate or in the unorientated material at the web or lower
+strap","1. Hot bottles (refer to Opalescence).
+2. Folds in the base.
+3. Heavy base weight.
+4. Excessive post mould growth — In filler due to poor bi-orientation.
+5. Low IV.
+6. Chemical reaction. (refer to Stress Cracking).
+7. Aged preforms.
+8. Contamination.
+9. Stress cracking.
+10. Cracked bases.
+11. Excessive crystalinity.
+12. Doming — mould base too warm.",1. Refer to solutions for the above causes on previous pages.
+DROP TEST FAILURES,Bottles burst open in the base when drop test is carried out.,"1. Preform end cap blown too cold.
+2. Heavy base weight (unorientated material).
+3. Excessive crystallinity in preform base.
+4. Low IV.
+5. Poor base design — sharp edges between feet and at the punt.","1. Increasing heat at the gate or below without losing base weight usually
+improves drop test failure.
+2. Reduce base weight if above specification.
+3. Review base design."
+SLIGHT FOLD IN NECK OF BOTTLE,Fold in neck of bottle just below neck support ring.,"1. Warm preforms rubbing against cooling shields in oven.
+2. Oven chain is too tight.","1. Cooling shields to be adjusted to give adequate clearance.
+2. Reduce tension on oven chain."
+DEFORMED SHOULDER - SERIES Il,Shoulder not forming correctly due to air being trapped in the mould.,"1. Insufficient venting in mould neck insert area. Experienced when running
+SERIES | moulds in a SERIES II machine.","1. Introduce venting in neck inserts of mould to overcome effect of the bell
+nozzle sealing around the neck support ring."
