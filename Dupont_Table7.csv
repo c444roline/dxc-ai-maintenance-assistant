@@ -1,0 +1,33 @@
+﻿Fault,Cause,Solution
+Bubbles in melt,Moisture,Dry resin
+Bubbles in melt,Wrong screw design (air entrapment),Fit suitable screw
+Poor melt strength,Moisture,Dry resin
+Poor melt strength,Melt temperature too high,"Check with needle pyrometer and
+correct to recommended value. If actual
+melt temperature greatly exceeds set
+temperatures, see below"
+Excessive melt temperature (significantly above set temperatures),Faulty temperature controllers or thermocouples,Repair/calibrate controllers and thermocouples
+Excessive melt temperature (significantly above set temperatures),Wrong screw design,Fit correct screw
+"Unmelt or ""cold"" appearance in parison",Temperature set too low,Raise temperatures – see recommended settings for resin
+"Unmelt or ""cold"" appearance in parison",Insufficient “heat soak” time before start-up,"Allow longer ""heat soak"""
+"Unmelt or ""cold"" appearance in parison","Faulty heaters, thermocouples or controllers",Repair/calibrate as necessary
+"Unmelt or ""cold"" appearance in parison","Inadequate heater capacity for engineering resin (especially in zones between cylinder and head, or in head/die zones)",Upgrade heater size or provide thermal insulation
+"Unmelt or ""cold"" appearance in parison",External (or internal) cooling of head/die by air draught or leakage,Eliminate source of air cooling
+Inside surface of parison is rough (outside may be O.K.),Core pin too cold,Consider fitting core heater. Check if air flow through core/pin is excessive
+Inside surface of parison is rough (outside may be O.K.),Melt fracture,"Increase die temperature (only).
+Reduce push-out speed/pressure.
+Check die/design (internal angles too severe, for example)"
+Outside surface of parison is rough (inside may be O.K.),Die too cold,Raise die temperature/check set point is being held
+Outside surface of parison is rough (inside may be O.K.),Melt fracture,"See solution for ""inside surface"" above"
+Poor pinch weld,Contamination from previous or purge material,Purge for longer before starting Moulding. Temporarily raise head/die temperatures if required to accelerate purging.
+Poor pinch weld,Melt or surface temperature too low,"Raise temperatures – try only die temperature first. See below: ""Parison hanging too long"""
+Poor pinch weld,Parison hanging too long before mould close,Push out faster. Reduce delays in mould closing.
+Poor pinch weld,Poor design of pinch-off area in mould,Redesign mould pinch-off
+Uneven screw output,"Granules ""bridging"" below feed hopper",Check water cooling to throat area
+Uneven screw output,Feeding problem in screw zone 1,"Check set/actual temperatures are correct.
+Raise first screw zone temperature significantly (e.g. 20-30°C).
+Check screw design."
+Uneven screw output,Too high regrind usage,Reduce % regrind used
+Uneven screw output,Restriction or unmelted material after screw/barrel,Check temperatures and pressures. Raise temperatures if necessary.
+Parison rolls onto face of die (does not drop down),Too low die temperature,Check die heater. Raise die temperature.
+Parison rolls onto face of die (does not drop down),Incorrect die geometry,Improve die design
