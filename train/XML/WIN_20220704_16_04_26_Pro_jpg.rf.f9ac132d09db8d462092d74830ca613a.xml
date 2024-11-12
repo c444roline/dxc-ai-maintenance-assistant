@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>WIN_20220704_16_04_26_Pro_jpg.rf.f9ac132d09db8d462092d74830ca613a.jpg</filename>
+	<path>WIN_20220704_16_04_26_Pro_jpg.rf.f9ac132d09db8d462092d74830ca613a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>144</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Good Cap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>70</xmin>
+			<xmax>184</xmax>
+			<ymin>37</ymin>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+</annotation>

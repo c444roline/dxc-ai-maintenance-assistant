@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>WIN_20220701_14_45_21_Pro_jpg.rf.02646ecc980fa8bcd3713692fdb6d9fa.jpg</filename>
+	<path>WIN_20220701_14_45_21_Pro_jpg.rf.02646ecc980fa8bcd3713692fdb6d9fa.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>144</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Broken Cap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>62</xmin>
+			<xmax>192</xmax>
+			<ymin>29</ymin>
+			<ymax>125</ymax>
+		</bndbox>
+	</object>
+</annotation>

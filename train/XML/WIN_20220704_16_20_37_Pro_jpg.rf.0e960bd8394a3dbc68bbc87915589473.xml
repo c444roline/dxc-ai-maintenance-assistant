@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>WIN_20220704_16_20_37_Pro_jpg.rf.0e960bd8394a3dbc68bbc87915589473.jpg</filename>
+	<path>WIN_20220704_16_20_37_Pro_jpg.rf.0e960bd8394a3dbc68bbc87915589473.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>144</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Broken Ring</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>77</xmin>
+			<xmax>176</xmax>
+			<ymin>84</ymin>
+			<ymax>114</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>WIN_20220704_15_06_08_Pro_jpg.rf.f9ae1c50cb7d07c6aaaeb2e8697dce35.jpg</filename>
+	<path>WIN_20220704_15_06_08_Pro_jpg.rf.f9ae1c50cb7d07c6aaaeb2e8697dce35.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>144</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Loose Cap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>69</xmin>
+			<xmax>180</xmax>
+			<ymin>80</ymin>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+</annotation>
