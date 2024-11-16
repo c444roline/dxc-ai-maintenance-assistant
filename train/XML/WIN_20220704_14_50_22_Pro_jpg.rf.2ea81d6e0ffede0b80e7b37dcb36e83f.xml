@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>WIN_20220704_14_50_22_Pro_jpg.rf.2ea81d6e0ffede0b80e7b37dcb36e83f.jpg</filename>
+	<path>WIN_20220704_14_50_22_Pro_jpg.rf.2ea81d6e0ffede0b80e7b37dcb36e83f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>144</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Broken Cap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>70</xmin>
+			<xmax>181</xmax>
+			<ymin>24</ymin>
+			<ymax>130</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Loose Cap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>72</xmin>
+			<xmax>178</xmax>
+			<ymin>68</ymin>
+			<ymax>126</ymax>
+		</bndbox>
+	</object>
+</annotation>

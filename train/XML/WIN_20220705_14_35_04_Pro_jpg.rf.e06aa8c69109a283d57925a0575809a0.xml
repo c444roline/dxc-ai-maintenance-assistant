@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>WIN_20220705_14_35_04_Pro_jpg.rf.e06aa8c69109a283d57925a0575809a0.jpg</filename>
+	<path>WIN_20220705_14_35_04_Pro_jpg.rf.e06aa8c69109a283d57925a0575809a0.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>144</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No Cap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>70</xmin>
+			<xmax>180</xmax>
+			<ymin>49</ymin>
+			<ymax>129</ymax>
+		</bndbox>
+	</object>
+</annotation>
