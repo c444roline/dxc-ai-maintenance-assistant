@@ -4,7 +4,7 @@
 The DXC AI Maintenance Assistant is an AI-powered chatbot designed to assist water bottle manufacturers in identifying and troubleshooting problems with their bottles, machinery, and production processes. By leveraging Natural Language Processing (NLP), Retrieval Augmented Generation (RAG), and preprocessed manual data, the assistant offers real-time advice based on textual input.
 
 ### Future Vision
-In future iterations, the assistant will incorporate computer vision to visually identify issues in manufacturing, enhancing its ability to solve real-time production problems.
+In future iterations, we hope to incorporate computer vision to visually identify issues in manufacturing, enhancing its ability to solve real-time production problems.
 
 ---
 
@@ -22,7 +22,6 @@ In future iterations, the assistant will incorporate computer vision to visually
 1. **Input Handling**: Users describe problems with bottles or machinery.
 2. **Data Processing**: Technical manuals and historical data are preprocessed for easy querying.
 3. **AI-Driven Diagnosis**: The assistant uses **LangChain**, **BERT Embedding Model** **Hugging Face models**, and **OpenAI's GPT** for diagnosing issues and suggesting solutions.
-4. **Feedback Loop**: The system improves with each interaction, providing better solutions over time.
 
 ### Future Enhancements:
 - **Computer Vision Integration**: The chatbot will soon analyze images from the production line to identify defects and machinery issues.
@@ -30,7 +29,7 @@ In future iterations, the assistant will incorporate computer vision to visually
 ---
 ## Usage
 
-Once set up, you can interact with the chatbot through the command-line interface or integrate it into your manufacturing system. Simply ask the assistant about bottle or machinery problems, and it will use the preprocessed data to provide a solution.
+ Simply ask the assistant about bottle or machinery problems, and it will use the preprocessed data to provide a solution.
 
 ### Example queries:
 
@@ -40,7 +39,7 @@ Once set up, you can interact with the chatbot through the command-line interfac
 ---
 ## Acknowledgments
 
-This project is a collaboration between **DXC Technology** and **Cornell Tech** as part of the **AI Studio Fellowship** program.
+This project is a collaboration between **DXC Technology** and **Cornell Tech** as part of the **Fall 2024 AI Studio Fellowship** program.
 
 The development of this project is a group effort by AI Studio Fellows:
 
