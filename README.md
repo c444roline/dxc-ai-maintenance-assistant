@@ -46,7 +46,7 @@ The development of this project is a group effort by AI Studio Fellows:
 - Caroline Huynh
 - Colette Lee
 - Jimena Ames
-- Aliona Hertz
+- Aliona Heitz
 
 With the help of:
 
