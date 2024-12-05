@@ -7,18 +7,18 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <<div class="chat-container">
+    <div class="chat-container">
         <div class="chat-header">
             <img src="DXC_Technology_logo.png" alt="DXC Technology Logo">
             ChatDXC
         </div>
-        <div class="chat-box">
+        <div class="chat-box" id="chat-box">
             <div class="message user">Hi there!</div>
             <div class="message bot">Hello! How can I assist you today?</div>
         </div>
         <div class="chat-input">
-            <input type="text" placeholder="Type a message...">
-            <button>Send</button>
+            <input type="text" id="user-input" placeholder="Type a message...">
+            <button id="send-btn">Send</button>
         </div>
     </div>
     <script src="script.js"></script>

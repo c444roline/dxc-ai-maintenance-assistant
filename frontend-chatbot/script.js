@@ -10,7 +10,7 @@ sendBtn.addEventListener('click', () => {
         // Display the user's message
         addMessage(message, 'user');
 
-        // Send the user's message to the chatbot backend and handle the response
+        // Send the user's message to the backend and handle the response
         getBotResponse(message);
         
         // Clear the input field
@@ -27,19 +27,23 @@ function addMessage(message, sender) {
     chatBox.scrollTop = chatBox.scrollHeight; // Scroll to the latest message
 }
 
-// Simulate chatbot response (replace with API call)
+// Get chatbot response from backend API
 async function getBotResponse(message) {
-    // Example API call to a chatbot backend
     try {
-        const response = await fetch('http://localhost:5000/chat', {
+        const response = await fetch('http://localhost:5000/query', {  // Updated endpoint
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ message }),
+            body: JSON.stringify({ query: message }),  // Send query as 'query'
         });
         const data = await response.json();
 
-        // Display the bot's response
-        addMessage(data.response, 'bot');
+        // Check if data has responses and display
+        if (data && data.length > 0) {
+            const botResponse = `I found something in the **${data[0].column}** category:\n📄 **Details**: ${data[0].original_text}\n📚 **Source**: ${data[0].source}\n⭐ **Relevance Score**: ${data[0].score.toFixed(2)}`;
+            addMessage(botResponse, 'bot');  // Display the bot's response
+        } else {
+            addMessage('Sorry, I couldn\'t find any relevant information.', 'bot');
+        }
     } catch (error) {
         console.error('Error:', error);
         addMessage('Sorry, there was an error.', 'bot');
