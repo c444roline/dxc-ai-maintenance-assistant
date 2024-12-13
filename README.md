@@ -51,6 +51,7 @@ The development of this project is a group effort by AI Studio Fellows:
 With the help of:
 
 - Esther Li (AI Studio TA)
+- Brian Chung (TA)
 - Allen Lebo (DXC Challenge Advisor)
 - Murali Gowda (DXC Challenge Advisor)
 
